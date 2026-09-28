@@ -1,0 +1,3 @@
+Thermodynamics studies heat, work, and energy.
+Heat is energy transferred because of a temperature difference.
+Work is energy transferred when a force moves an object.
